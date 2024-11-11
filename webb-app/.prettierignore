@@ -1,0 +1,7 @@
+# Standard
+/.git
+/.vscode
+/.idea
+.prettierrc
+package.json
+tsconfig.json
